@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="app">
+  <web-view src="http://www.zoom-link.cn:8081/ProjectTest/wxtest.html">
+
+  </web-view>
+</view>
